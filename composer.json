@@ -1,0 +1,7 @@
+{
+  "name": "amigosinformaticos/servercalculadora",
+  "description": "",
+  "autoload": {
+    "classmap": ["service","ThriftLibs"]
+  }
+}
